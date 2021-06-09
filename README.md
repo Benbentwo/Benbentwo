@@ -2,7 +2,7 @@
 ###### ben.smith.developer@gmail.com
 ###### 
 ---
-### Links
+### Templates
  - [Creating a new Go Binary](https://github.com/Benbentwo/go-bin-generic/generate)
   
 <img src="https://media.tenor.com/images/bd9411ac172432edcff1032769317af2/tenor.gif" style="display:block;margin-left: auto;margin-right: auto;">
