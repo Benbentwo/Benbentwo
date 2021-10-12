@@ -10,6 +10,7 @@
 ---
 
 <a href="https://stackoverflow.com/users/10061187/benbentwo"><img src="https://stackoverflow.com/users/flair/10061187.png" width="208" height="58" alt="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<br>
 <img align="center" alt="Benbentwos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Benbentwo&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 <sub></sub>
