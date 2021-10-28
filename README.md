@@ -12,5 +12,5 @@
 <a href="https://stackoverflow.com/users/10061187/benbentwo"><img src="https://stackoverflow.com/users/flair/10061187.png?theme=dark" width="208" height="58" alt="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br>
 <img align="center" alt="Benbentwos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Benbentwo&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
-<img align="center" alt="Benbentwo's Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benbentwo&hide=css"
+<img align="center" alt="Benbentwo's Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benbentwo&hide=css" />
 <sub></sub>
