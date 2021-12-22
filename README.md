@@ -9,6 +9,8 @@
 
 ---
 
+### Random Stats
+
 <a href="https://stackoverflow.com/users/10061187/benbentwo"><img src="https://stackoverflow.com/users/flair/10061187.png?theme=dark" width="208" height="58" alt="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br>
 <img align="center" alt="Benbentwos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Benbentwo&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&count_private=true" />
@@ -17,4 +19,6 @@
 
 ---
 
+### developer jokes for a laugh 😂
 ![cncf-always-sunny](https://github.com/jim80net/jim80net/raw/main/images/cncf-always-sunny.jpg)
+![who-were-you](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)
