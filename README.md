@@ -1,5 +1,6 @@
 # Benbentwo
 [![AWS Solutions Architect Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d34f63b8-0507-42a2-abe9-85c517a3bbcf/public_url)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a78316fe-5bb1-4ea7-9dfc-b14b284bd87b/public_url)
 ###### ben.smith.developer@gmail.com
 ###### 
 ---
