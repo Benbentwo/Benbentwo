@@ -1,9 +1,7 @@
 # Benjamin Smith
 
-ben.smith.developer@gmail.com | (703) 220-8512 | Portland, OR
-
-GitHub: [Benbentwo](https://github.com/Benbentwo) | LinkedIn: [Benbentwo](https://linkedin.com/in/Benbentwo)
-
+ben.smith.developer@gmail.com | (703) 220-8512 | Portland, OR  
+GitHub: [Benbentwo](https://github.com/Benbentwo) | LinkedIn: [Benbentwo](https://linkedin.com/in/Benbentwo)  
 Senior Platform Engineer | Terraform Architecture | AWS Infrastructure | GitOps | Developer Enablement
 
 ## Summary
