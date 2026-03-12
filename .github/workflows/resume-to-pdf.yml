@@ -24,7 +24,11 @@ jobs:
 
       - name: Convert resume.md to PDF
         run: |
-          cat resume.md | npx md-to-pdf --highlight-style github --launch-options '{"args":["--no-sandbox"]}' > resume.pdf
+          cat resume.md | npx md-to-pdf \
+            --highlight-style github \
+            --stylesheet .github/resume.css \
+            --launch-options '{"args":["--no-sandbox"]}' \
+            > resume.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
