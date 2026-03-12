@@ -12,13 +12,12 @@ Senior DevOps / Platform Engineer driven by the human side of infrastructure. I 
 
 Remote | June 2021 – Present
 
-- Designed and delivered production-grade AWS platforms for multiple organizations using modular Terraform architectures, enabling teams to adopt cloud infrastructure quickly while maintaining secure IAM, networking, compute, and deployment foundations.
-- Supported multiple client AWS environments and infrastructure platforms, designing reusable Terraform components and patterns adopted across organizations.
-- Led complex infrastructure migrations including application, DNS, and database cutovers with near‑zero downtime using Terraform refactors and GitOps-driven deployment workflows.
-- Migrated a large multi‑cloud environment from monolithic Terraform to a modular component-based architecture, importing thousands of existing resources without downtime while eliminating CI runner timeouts and standardizing tooling and state management.
-- Contributed to and maintained widely used Cloud Posse open‑source Terraform modules, improving composability and reducing infrastructure boilerplate for teams across the DevOps community.
-- Implemented infrastructure-as-code observability platforms integrating CloudWatch, Datadog, and PagerDuty, enabling client engineering teams to monitor production health and respond to incidents effectively.
-- Enabled engineering teams to safely manage their own infrastructure through GitOps workflows, reusable Terraform components, and automated CI/CD pipelines.
+- Architected reusable AWS platform foundations using modular Terraform components adopted across multiple client environments, standardizing IAM, networking, compute, and deployment patterns.
+- Led complex infrastructure migrations including application, DNS, and database cutovers with near-zero downtime using Terraform refactors and GitOps deployment workflows.
+- Led a large-scale Terraform refactor for a multi-cloud environment, migrating thousands of existing resources from monolithic infrastructure to modular components with zero downtime while eliminating CI pipeline bottlenecks and runner timeouts.
+- Contributed to and maintained widely used Cloud Posse open-source Terraform modules, improving composability and reducing infrastructure boilerplate for the broader DevOps community.
+- Implemented infrastructure-as-code observability platforms integrating CloudWatch, Datadog, and PagerDuty, giving engineering teams real-time visibility into production systems and improving incident response.
+- Built GitOps-driven infrastructure workflows and reusable Terraform components that enabled engineering teams to safely manage and deploy their own infrastructure.
 
 ### DevOps Engineer — Blue Pisces (Contractor to Cloud Posse)
 

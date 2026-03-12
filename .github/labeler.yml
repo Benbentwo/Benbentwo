@@ -1,0 +1,10 @@
+patch:
+  - changed-files:
+      - any-glob-to-any-file:
+          - resume.md
+          - .github/resume.css
+
+ci:
+  - changed-files:
+      - any-glob-to-any-file:
+          - .github/workflows/**
