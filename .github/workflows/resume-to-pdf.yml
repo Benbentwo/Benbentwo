@@ -1,0 +1,43 @@
+name: Resume — Publish PDF
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - resume.md
+
+  workflow_dispatch: # allow manual trigger
+
+permissions:
+  contents: write # needed to create/update releases
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+
+      - name: Convert resume.md to PDF
+        run: |
+          cat resume.md | npx md-to-pdf --highlight-style github > resume.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume
+          path: resume.pdf
+
+      - name: Publish to GitHub Release (latest)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: resume-latest
+          name: Resume (latest)
+          body: |
+            Latest build of [resume.md](https://github.com/${{ github.repository }}/blob/master/resume.md) — auto-published on push.
+          files: resume.pdf
+          make_latest: true
