@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "watch": "concurrently \"nodemon --watch resume.md --watch .github/resume.css --ext md,css --exec 'sh scripts/build-resume.sh'\" \"browser-sync start --server --files resume.html --startPath resume.html --port 3000\""
+  }
+}

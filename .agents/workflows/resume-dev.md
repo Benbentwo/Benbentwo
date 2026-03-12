@@ -6,12 +6,12 @@ This workflow starts a live-reload development environment for iterating on `res
 
 // turbo-all
 
-1. Start the file watcher (rebuilds HTML on `.md` or `.css` changes) and live-reload server together:
+1. Start the file watcher and live-reload server:
 
 ```
-npx -y concurrently \
-  "npx -y nodemon -e md,css -w resume.md -w .github/resume.css -x 'npx md-to-pdf ./resume.md --highlight-style github --stylesheet .github/resume.css --as-html'" \
-  "npx -y live-server --port=3000 --watch=resume.html --open=resume.html --no-browser"
+npm run watch
 ```
+
+This runs `nodemon` (watches `resume.md` and `.github/resume.css`, rebuilds via `scripts/build-resume.sh`) and `browser-sync` (serves and auto-reloads) concurrently.
 
 2. Open the Antigravity browser preview to `http://localhost:3000/resume.html`
