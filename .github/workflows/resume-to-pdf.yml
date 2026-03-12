@@ -35,13 +35,13 @@ jobs:
             --highlight-style github \
             --stylesheet .github/resume.css \
             --launch-options '{"args":["--no-sandbox"]}' \
-            > resume.pdf
+            > benjamin-smith-resume.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: resume
-          path: resume.pdf
+          name: benjamin-smith-resume
+          path: benjamin-smith-resume.pdf
 
       - name: Publish to GitHub Release
         uses: softprops/action-gh-release@v2
@@ -52,5 +52,5 @@ jobs:
             ${{ steps.tag.outputs.changelog }}
 
             Built from [resume.md](https://github.com/${{ github.repository }}/blob/master/resume.md) — auto-published on push.
-          files: resume.pdf
+          files: benjamin-smith-resume.pdf
           make_latest: true
