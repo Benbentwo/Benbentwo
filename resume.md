@@ -12,7 +12,7 @@ Senior DevOps / Platform Engineer driven by the human side of infrastructure. I 
 
 ### Senior DevOps Engineer — Cloud Posse
 
-Remote | June 2021 – Present
+Remote | June 2022 – Present
 
 - Architected reusable AWS platform foundations using modular Terraform components adopted across multiple client environments, standardizing IAM, networking, compute, and deployment patterns.
 - Led complex infrastructure migrations including application, DNS, and database cutovers with near-zero downtime using Terraform refactors and GitOps deployment workflows.
@@ -23,7 +23,7 @@ Remote | June 2021 – Present
 
 ### DevOps Engineer — Blue Pisces (Contractor to Cloud Posse)
 
-Remote | May 2020 – June 2021
+Remote | June 2021 – June 2022
 
 - Built and published open-source Terraform modules used by the community, reducing infrastructure provisioning time for adopters.
 - Developed DRY, reusable IaC components that enabled multiple clients to stand up complete AWS cloud solutions with consistent, repeatable configurations.
