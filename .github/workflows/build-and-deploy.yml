@@ -21,6 +21,10 @@ jobs:
         with:
           username: Benbentwo
           file-output: assets/images/contribution.svg
+      - name: Generate resume Jekyll page
+        run: |
+          printf -- '---\nlayout: resume\npermalink: /resume/\ntitle: Benjamin Smith\n---\n\n' \
+            | cat - resume.md > _pages/resume.md
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:

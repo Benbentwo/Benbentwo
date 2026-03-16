@@ -33,7 +33,7 @@ jobs:
         run: |
           cat resume.md | npx md-to-pdf \
             --highlight-style github \
-            --stylesheet .github/resume.css \
+            --stylesheet assets/css/resume.css \
             --launch-options '{"args":["--no-sandbox"]}' \
             > benjamin-smith-resume.pdf
 

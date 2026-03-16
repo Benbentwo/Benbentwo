@@ -10,7 +10,7 @@ npm run watch
 
 This will:
 
-- Watch `resume.md` and `.github/resume.css` for changes
+- Watch `resume.md` and `assets/css/resume.css` for changes
 - Rebuild `resume.html` on every save via `scripts/build-resume.sh`
 - Serve the result at `http://localhost:3000/resume.html` and auto-refresh the browser
 

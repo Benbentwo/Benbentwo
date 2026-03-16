@@ -2,15 +2,19 @@
 
 Senior Platform Engineer focused on AWS infrastructure, Terraform architecture, and GitOps-driven CI/CD. I got into DevOps for the impact it has on engineers — removing friction so teams can ship with confidence.
 
-📄 **[Latest Resume](https://github.com/Benbentwo/Benbentwo/releases/latest/download/benjamin-smith-resume.pdf)**
+📄 **[Resume (Download PDF)](https://github.com/Benbentwo/Benbentwo/releases/latest/download/benjamin-smith-resume.pdf)**
 
 [![AWS Solutions Architect Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d34f63b8-0507-42a2-abe9-85c517a3bbcf/public_url)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a78316fe-5bb1-4ea7-9dfc-b14b284bd87b/public_url)
+
 ###### ben.smith.developer@gmail.com
+
 ---
+
 ### Templates
- - [Creating a new Go Binary](https://github.com/Benbentwo/go-bin-generic/generate)
-  
+
+- [Creating a new Go Binary](https://github.com/Benbentwo/go-bin-generic/generate)
+
 <div id="header" align="center">
  <img src="https://media.tenor.com/images/bd9411ac172432edcff1032769317af2/tenor.gif" style="display:block;margin-left: auto;margin-right: auto;">
 </div>
@@ -43,10 +47,7 @@ Senior Platform Engineer focused on AWS infrastructure, Terraform architecture, 
 
 ### Random Stats
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benbentwo&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
 
 <a align="left" href="https://stackoverflow.com/users/10061187/benbentwo"><img src="https://stackoverflow.com/users/flair/10061187.png?theme=dark" width="208" height="58" alt="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Benbentwo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <br>
